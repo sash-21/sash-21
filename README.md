@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [CodeStars (Online Judge)]
 
-- 🌱 I’m currently learning **Backed in Node.js, TypeScript and also DevOps**
+- 🌱 I’m currently learning **Backend in Node.js, TypeScript & DevOps**
 
-- 👯 I’m looking to collaborate on **Software Engineering**
+- 👯 I’m looking to collaborate on any cool projects and work in **Backend & Web3 dev**
 
 - 💬 Ask me about **Node.js, JavaScript, C++, Backend and Machine Learning**
 
