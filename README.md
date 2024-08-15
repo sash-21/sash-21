@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scube27&label=Profile%20views&color=0e75b6&style=flat" alt="scube27" /> </p>
 
-- 🔭 I’m currently working on CodeStars(Online Judge)
+- 🔭 I’m currently working on my projects **CodeStars & AirTrip**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps and Golang**
 
 - 👯 I’m looking to collaborate to develop frontend for **SneakerHunt**
 
