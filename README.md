@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/scube2721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scube2721" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahils2721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahils2721" height="30" width="40" /></a>
+<a href="https://x.com/_sash_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sash21" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/21sash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sash21" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/scube2721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="scube2721" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/scube27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="scube27" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sash21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sash21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
