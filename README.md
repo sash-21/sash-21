@@ -114,16 +114,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/scube27">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scube27&show_icons=true&locale=en&theme=tokyonight" alt="scube27"/>
+  <a href="https://github.com/sash-21">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sash-21&show_icons=true&locale=en&theme=tokyonight" alt="sash-21"/>
   </a>
-  <a href="https://github.com/scube27">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=scube27&theme=tokyonight" alt="scube27"/>
+  <a href="https://github.com/sash-21">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sash-21&theme=tokyonight" alt="sash-21"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/scube27">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=scube27&show_icons=true&locale=en&layout=compact&langs_count=7&theme=tokyonight" alt="scube27"/>
+  <a href="https://github.com/sash-21">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sash-21&show_icons=true&locale=en&layout=compact&langs_count=7&theme=tokyonight" alt="sash-21"/>
   </a>
 </p>
