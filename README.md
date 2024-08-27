@@ -113,7 +113,7 @@
 </p>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sash-21&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sash-21&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
