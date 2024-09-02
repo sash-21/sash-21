@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)](https://sahilshah.io)
 <h1 align="center">Hello World👋, This is Sahil Shah</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a424ab899a2f67802eef822124157ca2e03dd7aacb062610ad22cb0d06bfa425/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scube27&label=Profile%20views&color=0e75b6&style=flat" alt="scube27" /> </p>
 
