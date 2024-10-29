@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my projects **CodeStars & AirTrip**
 
-- 🌱 I’m currently learning **DevOps and Golang**
+- 🌱 I’m currently learning **React.js and Next.js**
 
 - 👯 I’m looking to collaborate to develop frontend for **SneakerHunt**
 
