@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Backend Development**
 
-- 📫 How to reach me <a href="sahilshah2104@gmail.com">Email</a>
+- 📫 How to reach me <a href="mailto:sahilshah2104@gmail.com">Email</a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1C7gXUhNRJNIktC-hW7u58pP4Ae69F1Uo/view">Resume</a>
 
