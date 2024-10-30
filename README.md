@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sash-21&label=Profile%20views&color=0e75b6&style=flat" alt="sash-21" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer** at **Cloudanix**
+- 🔭 I’m currently working as a **Software Engineer** at <a href="https://www.cloudanix.com/">Cloudanix</a>
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
