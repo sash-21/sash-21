@@ -107,11 +107,6 @@
 </p>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=sash-21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=sash-21&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sash-21&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
