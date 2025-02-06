@@ -20,7 +20,6 @@
 <p align="left">
 <a href="https://x.com/_sash_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sash21" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/21sash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sash21" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/scube2721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="scube2721" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sash21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sash21" height="30" width="40" /></a>
 </p>
 
