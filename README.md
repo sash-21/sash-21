@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer** at <a href="https://www.cloudanix.com/">Cloudanix</a>
 
-- 🌱 I’m currently learning **React.js and Next.js**
-
-- 👯 I’m looking to collaborate to develop frontend for **SneakerHunt**
+- 🌱 I’m currently learning **Kubernetes & System Design**
 
 - 💬 Ask me about **Backend Development**
 
